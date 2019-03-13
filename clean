@@ -1,0 +1,10 @@
+#!/bin/bash
+
+rm -rf 404.html
+rm -rf categories
+rm -rf dist
+rm -rf images
+rm -rf index.html
+rm -rf index.xml
+rm -rf sitemap.xml
+rm -rf tags
