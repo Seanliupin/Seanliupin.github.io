@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://seanliupin.github.io/sitemap.xml
